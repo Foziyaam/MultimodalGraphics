@@ -7,4 +7,3 @@ TwoDgrid: to represent the finding of a huge spreadsheet data in a single grid. 
 ScatteredPlot: to customizable scatter plot for multiple datasets on a single plot. It provides the user to customize a wide range of arguments (colors, cut offs, positions) and can be used to generate scatter plots from any number of datasets (different cohorts, timepoints, and/or sources in general).
 
 There is no limitation for the number of data types, amount and order of graphics and annotations except legibility and the space in the graphical canvas.
-![image](https://github.com/Foziyaam/MultimodalGraphics/assets/142228859/59b04763-3170-4d48-aeb7-fc7c6aa23701)
